@@ -32,28 +32,28 @@ const ResultsPage = () => {
               text="Reaction"
               score="80"
               color="hsl(0, 100%, 67%)"
-              backgroundColor="hsl(0, 100%, 67%)"
+              backgroundColor="#FFF6F5"
             />
             <Bar
               icon={memoryIcon}
               text="Memory"
               score="90"
               color="hsl(39, 100%, 56%)"
-              backgroundColor="hsl(39, 100%, 56%)"
+              backgroundColor="#FFFBF2"
             />
             <Bar
               icon={verbalIcon}
               text="Verbal"
               score="61"
               color="hsl(166, 100%, 37%)"
-              backgroundColor="hsl(166, 100%, 37%)"
+              backgroundColor="#F2FAFA"
             />
             <Bar
               icon={visualIcon}
               text="Visual"
               score="72"
               color="hsl(234, 85%, 45%)"
-              backgroundColor="hsl(234, 85%, 45%)"
+              backgroundColor="#F3F3FD"
             />
           </div>
           <Button title="Continue" />
